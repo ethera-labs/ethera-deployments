@@ -1,0 +1,30 @@
+[Shared_Infra]
+ComposeAdmin = "0x86854e89a7a4328fa1c9c37ca57e6294e3acae8f" #EOA
+Guardian = "0x6e822bf8337c8c681793606982faa9c737a752c3" #EOA
+DisputeGameFactoryOwner = "0x86854e89a7a4328fa1c9c37ca57e6294e3acae8f" #EOA
+AuthorizedProposer = "0x3c7d02D7f8f74e4D5E4cd10618B2BeeaB4B6b8fA" #EOA
+
+ProxyAdmin = "0x7e1b343644e415a8ae636f2126c1c45efea5cce8"
+SuperchainConfig = "0x64c9c6d61c42b30a3c793517bc9e6abe71e02623"
+ETHLockbox = "0xf6d7e92eddccdf58b4e31acfb967593c46425fd6"
+ERC20Lockbox = "0x1CbEdf99D309489E586f46e7a22e31d1D5d604bf"
+AnchorStateRegistry = "0xa48cc954531a24c737f496c60daa44abad8475ab"
+DisputeGameFactory = "0x8cda6cadce4e20a3f027cca31684d2e5e13040fa"
+ComposeDisputeGameImplementation = "0x28FEc7e1eD78BAD1b51296c93741Dc4d5bbBaa8C"
+SP1Verifier = "0x397A5f7f3dBd538f23DE225B51f532c34448dA9B"
+
+[RollupA]
+ProxyAdmin = "0x7fc71cdda0ed875341992be84dd32d5c3414b8c4"
+ComposePortal = "0xbc2e5a158b9d3ea5ff145ea261736ab0ca6517f9"
+SystemConfig = "0x6daa158632c523bd6d7bb6e42f3615ab113974fd"
+L1CrossDomainMessenger = "0x1a1a9c0719921d34897ab4c1820a27042ed98f0d"
+L1StandardBridge = "0x7809c584622f88ba618cabc29b1d649bc6fa742f"
+ComposeL1Bridge = "0xF3504fc6AAB6Da84cc466bB707a109a8824a0c24"
+
+[RollupB]
+ProxyAdmin = "0xddec6798366576198edeca3f2667ea417118a459"
+ComposePortal = "0xd32ed6c0a353ae79e087890d0f86d53d78036055"
+SystemConfig = "0xa815e5f2d82149fdc228d29bb4299732a1f8beaa"
+L1CrossDomainMessenger = "0xd25eeb262863afbf18922cea80747928b22c0591"
+L1StandardBridge = "0xff7be54dead48b5f5a2a98d3dadc0bf81e819fd8"
+ComposeL1Bridge = "0x30Fdb3B0035828372a9Df4D2F6B66CA27529C9B0"
