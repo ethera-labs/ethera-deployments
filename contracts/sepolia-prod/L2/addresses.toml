@@ -1,3 +1,7 @@
+[CodeReference]
+Commit = "91d4d61d95085e52f33474de94df6c0176dc129a"
+URL = "https://github.com/ethera-labs/contracts/tree/91d4d61d95085e52f33474de94df6c0176dc129a"
+
 [RollupA]
 Owner = "0x86854e89a7a4328fa1c9c37ca57e6294e3acae8f" #EOA
 Coordinator = "0x0f10aF865F68F5aA1dDB7c5b5A1a0f396232C6Be" #EOA
