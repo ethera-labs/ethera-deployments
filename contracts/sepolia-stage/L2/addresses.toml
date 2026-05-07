@@ -1,0 +1,25 @@
+[CodeReference]
+Commit = "c0187107faf47d10558565acdb4e795f7fb6cf30"
+URL = "https://github.com/ethera-labs/contracts/tree/c0187107faf47d10558565acdb4e795f7fb6cf30"
+
+[RollupA]
+Owner = "0xbD711cE6e144f1ea4B42aA9f959b2B3002b5521e" #EOA
+Coordinator = "0xBFC510773f96a1b75D93d7B70302c1A7e378531d" #EOA
+
+L2CrossDomainMessenger = "0x4200000000000000000000000000000000000007"
+L2ComposeBridge = "0x7b95c7780cfdaebe3d9397399fbdd2b5ad243aeb"
+CetFactory = "0x552e0fc7105bd628e507ead8973694cf559ad27e"
+UniversalBridgeMailbox = "0xe7cd64151011ae6ad84cf96c107b61024d2071f0"
+ComposeL2ToL2Bridge = "0x6e166073b5dd5fd53b33fed5a7bd9c104c6c6ebd"
+ComposeETHLiquidity = "0x053402b5adfa240fe999a5080121ce53b51fa2c1"
+
+[RollupB]
+Owner = "0xbD711cE6e144f1ea4B42aA9f959b2B3002b5521e" #EOA
+Coordinator = "0xBFC510773f96a1b75D93d7B70302c1A7e378531d" #EOA
+
+L2CrossDomainMessenger = "0x4200000000000000000000000000000000000007"
+L2ComposeBridge = "0x7b95c7780cfdaebe3d9397399fbdd2b5ad243aeb"
+CetFactory = "0x552e0fc7105bd628e507ead8973694cf559ad27e"
+UniversalBridgeMailbox = "0xe7cd64151011ae6ad84cf96c107b61024d2071f0"
+ComposeL2ToL2Bridge = "0x6e166073b5dd5fd53b33fed5a7bd9c104c6c6ebd"
+ComposeETHLiquidity = "0x053402b5adfa240fe999a5080121ce53b51fa2c1"
