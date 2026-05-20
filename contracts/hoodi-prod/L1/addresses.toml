@@ -20,6 +20,7 @@ SystemConfig = "0x83d732a3b9f5446fbc6687095533b9cfad0ed54f"
 L1CrossDomainMessenger = "0xc238a93aff64e9c17ec1ccf3990772cab3f3a392"
 L1StandardBridge = "0xa9d7542e70822721ef3430ac43016c868d8d51a0"
 ComposeL1Bridge = "0x9e51839f96BcBDA61052dCd687002d3B2D4d083a"
+ComposeL1BridgeImpl = "0x6253Ea494704367aD178e925a841f96b8ffEB223"
 
 [RollupB]
 ProxyAdmin = "0xe0c6d20d1322bb2a1ceee3852fe4af0ca18035ea"
@@ -28,3 +29,4 @@ SystemConfig = "0xc1db3040fb35dac450415d6b0b575f709a3f9146"
 L1CrossDomainMessenger = "0x7ae6a35620d5537d3256261d6fab6c2a041b9c64"
 L1StandardBridge = "0x5c36beee62a1cebafc01ac925bc01400c2d18366"
 ComposeL1Bridge = "0x8e1Dc5e261f0bB1A4193b9FCc9f270DfC4EBBf26"
+ComposeL1BridgeImpl = "0xa63Bd2bf7927a5395163972f16E3880503ed55A4"
